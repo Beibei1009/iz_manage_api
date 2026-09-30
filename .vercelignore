@@ -1,0 +1,5 @@
+.env.local
+.env.pulled
+.api_secret
+node_modules
+.next

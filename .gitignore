@@ -1,0 +1,8 @@
+node_modules
+.next
+.env*.local
+.env.pulled
+.api_secret
+.vercel
+.env*
+.DS_Store
